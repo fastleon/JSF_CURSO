@@ -1,4 +1,4 @@
-package beans.confiuguration;
+package beans.configuration;
 
 import javax.enterprise.context.ApplicationScoped;
 import javax.faces.annotation.FacesConfig;
